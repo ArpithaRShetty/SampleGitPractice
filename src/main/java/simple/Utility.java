@@ -2,7 +2,7 @@ package simple;
 
 public class Utility {
 
-	pubic void utility() {
+	public void utility() {
 		System.out.println("Hello");
 	}
 }
